@@ -54,6 +54,36 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "nfl",
+        thumbnailUrl: 'https://neiuindependent.org/wp-content/uploads/2019/11/nfl-national-football-league-royalty-free-thumbnail.jpg',
+        imageUrl: 'https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/f/73/f7376e16-6d9c-5d7b-8069-0632517bce75/5deddbe277c1e.image.jpg?resize=1200%2C1544',
+        likes: 21905,
+        timestamp: "September 5th 2019, 04:30:11 pm",
+        comments: [
+            {
+                id: 41,
+                username: "nfl",
+                text: "Lamar Jackson put on a show, throwing for 5 TD",
+            },
+            {
+                id: 42,
+                username: "markingram21",
+                text: "Best QB! Truzzzz",
+            },
+            {
+                id: 43,
+                username: "tombrady",
+                text: "better than me",
+            },
+            {
+                id: 44,
+                username: "stephenasmith",
+                text: "Blasphemy",
+            },
+        ],
+    }
 ];
 
 export default dummyData;
